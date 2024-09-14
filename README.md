@@ -1,8 +1,7 @@
 # Linux-Basic-For-Bioinformatics
 ![logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230110215926/Basic-Linux-Commands.gif)
-Sure, I can help you draft a README for your GitHub repository on "Linux Basics for Bioinformatics." Here's a template you can use and customize according to your needs:
 
----
+
 
 # Linux Basics for Bioinformatics
 
